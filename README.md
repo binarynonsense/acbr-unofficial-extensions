@@ -7,7 +7,7 @@ Some other type of files may me added in the future, like custom color themes.
 
 ## Localization files
 
-ACBR only includes human made translations but, if ACBR doesn't include your prefered language and don't mind using a machine translated one, here are some I've generated with Google Translate as a test. IMPORTANT: I have no clue about the quality of these machine translations, as I don't know the languages myself, I just decided to share them after a user suggested it in case someone else finds them useful.
+ACBR only includes human made translations but, if ACBR doesn't include your preferred language and don't mind using a machine translated one, here are some I've generated with Google Translate as a test. IMPORTANT: I have no clue about the quality of these machine translations, as I don't know the languages myself, I just decided to share them after a user suggested it in case someone else finds them useful.
 
 - Français: fr.json (v3.15.0)
 - Português (Brasil): pt-Br.json (v3.15.0)
