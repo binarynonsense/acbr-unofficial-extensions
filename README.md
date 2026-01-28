@@ -12,4 +12,4 @@ ACBR only includes human made translations but, if your preferred language isn't
 - Français: [fr.json](https://raw.githubusercontent.com/binarynonsense/acbr-unofficial-extensions/d6c60e62515b6509c27e18ea6a8a6b15c6fb1838/locales/fr.json) (3.16.0-beta1)
 - Português (Brasil): [pt-Br.json](https://raw.githubusercontent.com/binarynonsense/acbr-unofficial-extensions/d6c60e62515b6509c27e18ea6a8a6b15c6fb1838/locales/pt-BR.json) (3.16.0-beta1)
 
-If you want me to generate a new one for another language, let me know in the issues of ACBR's repository and I'll give it a try.
+If you want me to generate a new one for another language, [create an issue](https://github.com/binarynonsense/comic-book-reader/issues) in ACBR's repository to let me know and I'll give it a try.
