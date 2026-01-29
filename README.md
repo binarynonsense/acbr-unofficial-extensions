@@ -1,9 +1,7 @@
 # ACBR Unofficial Extensions
 
 Since version 3.16.0, ACBR allows loading more localizations from external files (it has to be enabled in the advanced preferences).
-Some other type of external files may me added in the future, like custom color themes, but I've only implemented it for localization files so far..
-
-If you want to test that feature, or could find them useful, here are some unofficial ones I've made.
+If you want to test that feature, or could find them useful, here are some unofficial ones I've made:
 
 ## Localization files
 
