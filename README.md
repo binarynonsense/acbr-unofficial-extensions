@@ -1,6 +1,6 @@
 # ACBR Unofficial Extensions
 
-Since version 3.16.0, ACBR allows loading more localizations from external files (it has to be enabled in the advanced preferences).
+Since version 3.16.0, [ACBR](https://github.com/binarynonsense/comic-book-reader) allows loading more localizations from external files (it has to be enabled in the advanced preferences).
 If you want to test that feature, or could find them useful, here are some unofficial ones I've made:
 
 ## Localization files
